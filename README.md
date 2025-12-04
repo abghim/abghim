@@ -8,4 +8,4 @@
 
 📚 Stackoverflow ([abghim](https://stackoverflow.com/users/30939455/aiden-ghim))                🦀 Rust community ([abghim](https://users.rust-lang.org/))
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abghim)](https://github.com/anuraghazra/github-readme-stats)
