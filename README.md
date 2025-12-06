@@ -12,28 +12,27 @@
 <img width="776" src="https://github.com/user-attachments/assets/93f37f3b-49c7-4689-b0e3-8d99d5e3abc2">
 
 
-<img width="386" src="">
+<img width="386" src="https://github.com/user-attachments/assets/9906a2d6-7880-423e-b0ca-5f1611d1881c">
 
-<img width="386" src="">
 
-<img width="386" src="">
+<img width="386" src="https://github.com/user-attachments/assets/dd640164-4794-4163-aab9-9b42a45a5efd">
 
-<img width="386" src="">
+
+<img width="386" src="https://github.com/user-attachments/assets/ab552ae6-490b-494b-baee-667e934e1aed" />
+
+<img width="386" src="https://github.com/user-attachments/assets/c0ffc0a3-b2d3-4dce-a8d5-c156da6bdd7a">
+
 
 </p>
 
-
 ## Repos
+
 <p align="center">
-
-<img width="386" src="https://camo.githubusercontent.com/9e9fdd542b39602c30d645433fac11683740d1fa7206ee9fe0b9280df68fb485/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d61626768696d267468656d653d6769746875625f6461726b"></p>
-
-
-
-
+  <img width="776" alt="image" src="https://github.com/user-attachments/assets/6965caef-b6b2-4f29-88ae-6ab7b7b74f4c" />
+</p>
 
 ## Commits
-
 <p align="center">
-<img width="386" src="https://camo.githubusercontent.com/9300b6c02244d0285f9242c6c000e9076a23774a9c25f68ac41ae46384675722/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f647563746976652d74696d653f757365726e616d653d61626768696d267468656d653d6769746875625f6461726b267574634f66667365743d38">
+
+  <img width="783" height="479" alt="image" src="https://github.com/user-attachments/assets/c726551b-2781-4094-9a80-54d6f152351f" />
 </p>
