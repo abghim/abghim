@@ -25,15 +25,3 @@
 
 </p>
 
-## Repos
-
-<p align="center">
-  <img width="776" alt="image" src="https://github.com/user-attachments/assets/6965caef-b6b2-4f29-88ae-6ab7b7b74f4c" />
-</p>
-
-## Commits
-<p align="center">
-
-<img width="784" height="479" alt="image" src="https://github.com/user-attachments/assets/228c211f-a416-4ae0-bc83-da2011de442a" />
-</p>
-
