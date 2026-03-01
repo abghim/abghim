@@ -4,8 +4,6 @@
 
 🌐 Homepage [abghim.github.io](https://abghim.github.io)
 
-📚 Stackoverflow ([abghim](https://stackoverflow.com/users/30939455/aiden-ghim))                🦀 Rust community ([abghim](https://users.rust-lang.org/))
-
 ## Overview Cards
 
 <p align="center">
@@ -24,4 +22,5 @@
 
 
 </p>
+
 
