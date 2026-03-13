@@ -1,4 +1,4 @@
-# Hi all, I'm Aiden Ghim
+# Hi all, this is Aiden
 
 ✨ Student curious about the world
 
@@ -22,5 +22,6 @@
 
 
 </p>
+
 
 
