@@ -5,6 +5,8 @@
 🌐 Homepage [abghim.github.io](https://abghim.github.io)
 
 ## Overview Cards
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
 <img width="776" src="https://github.com/user-attachments/assets/93f37f3b-49c7-4689-b0e3-8d99d5e3abc2">
