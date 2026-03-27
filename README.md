@@ -20,7 +20,7 @@
 
 ✨ Student curious about the world
 
-🌐 Homepage [abghim.github.io](https://abghim.github.io)
+🌐 Homepage [abgh.im](https://abgh.im)
 
 ## Overview Cards
 
