@@ -1,8 +1,8 @@
 # Hi all, this is Aiden
 
 ![](https://img.shields.io/badge/website-abghim.github.io-blue)
-![](https://img.shields.io/badge/machine-Macbook_Air_M1-green)
-![](https://img.shields.io/badge/machine-Arch_Linux_btw-green)
+[![](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
 [![](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 [![](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
