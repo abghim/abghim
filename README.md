@@ -2,21 +2,17 @@
 
 ![](https://img.shields.io/badge/website-abghim.github.io-blue)
 [![](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
-[![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) 
 [![](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
-[![](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#) 
 [![](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-![](https://img.shields.io/badge/2025_commits-566-orange)
+<br>
+![](https://img.shields.io/badge/2025_contributions-566-orange?logo=github)
 ![](https://img.shields.io/badge/location-Seongnam,_South_Korea-cyan)
 ![](https://img.shields.io/badge/school-Newton_Academy-cyan)
 ![](https://img.shields.io/badge/status-❤️‍🔥-white)
-
-
-
-
-
 
 ✨ Student curious about the world
 
