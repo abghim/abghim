@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fabghim&query=%24.total.2025&label=2025+Contributions&color=Sea+Deep+or+blue&labelColor=14191f&style=flat&logo=github)
 ![](https://img.shields.io/badge/location-Seongnam,_South_Korea-cyan)
 ![](https://img.shields.io/badge/school-Newton_Academy-cyan)
-![](https://img.shields.io/badge/status-❤️‍🔥-white)
+![](https://img.shields.io/badge/status%20%20now-❤️‍🔥-white)
 
 ✨ Student curious about the world
 
