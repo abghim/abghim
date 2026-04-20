@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 <br>
-![](https://img.shields.io/badge/2025_contributions-566-orange?logo=github)
+![](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fabghim&query=%24.total.2025&label=2025+Contributions&color=Sea+Deep+or+blue&labelColor=14191f&style=flat&logo=github)
 ![](https://img.shields.io/badge/location-Seongnam,_South_Korea-cyan)
 ![](https://img.shields.io/badge/school-Newton_Academy-cyan)
 ![](https://img.shields.io/badge/status-❤️‍🔥-white)
