@@ -1,24 +1,16 @@
-# Hi all, this is Aiden
-
-![](https://img.shields.io/badge/website-abghim.github.io-blue)
-[![](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
-[![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) 
-[![](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
-[![](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#) 
-[![](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
-[![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-<br>
-![](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fabghim&query=%24.total.2026&label=2026+Contributions&color=Sea+Deep+or+blue&labelColor=14191f&style=flat&logo=github)
-![](https://img.shields.io/badge/location-Seongnam,_South_Korea-cyan)
-![](https://img.shields.io/badge/school-Newton_Academy-cyan)
-![](https://img.shields.io/badge/status%20%20now-❤️‍🔥-white)
+<h1 align="center">Hello, this is Aiden</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/www.abgh.im-14191f?logo=webmoney&amp;logoColor=fff&amp;style=flat" alt="WebMoney Badge">
+  <img src="https://img.shields.io/badge/github:abghim-181717?logo=github&amp;logoColor=fff&amp;style=flat" alt="GitHub Badge">
+  <img src="https://img.shields.io/badge/aiden@abgh.im-005FF9?logo=maildotru&amp;logoColor=fff&amp;style=flat" alt="Mail.Ru Badge">
+  <img alt="HCSSiM &#39;26" src="https://img.shields.io/badge/HCSSiM%20%2726-fdf351">
+  <img src="https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fabghim&amp;query=%24.total.2026&amp;label=GH%202026&amp;color=Sea+Deep+or+blue&amp;labelColor=14191f&amp;style=flat&amp;logo=github" alt="2026 Contributions">
+  <img src="https://img.shields.io/badge/🇰🇷%20Seongnam,%20Korea-white" alt="Seongnam, Korea">
+</p>
 
 ✨ Student curious about the world
 
 🌐 Homepage [abgh.im](https://abgh.im)
-
-## Overview Cards
 
 <p align="center">
 
