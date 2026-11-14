@@ -1,4 +1,4 @@
-<h1 align="center">Hello, this is Aiden</h1>
+<h1 align="center">Hello, this is Aiden Ghim</h1>
 <p align="center">
   <a href="https://www.abgh.im" style="text-decoration: none;"><img src="https://img.shields.io/badge/www.abgh.im-14191f?logo=webmoney&amp;logoColor=fff&amp;style=flat" alt="WebMoney Badge"></a>
   <a href="https://github.com/abghim" style="text-decoration: none;"><img src="https://img.shields.io/badge/github:abghim-181717?logo=github&amp;logoColor=fff&amp;style=flat" alt="GitHub Badge"></a>
